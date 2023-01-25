@@ -1,0 +1,23 @@
+{
+  "name": "create-move-app",
+  "version": "1.0.6",
+  "description": "create move app starter.",
+  "bin": {
+    "create-move-app": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v1xingyue/create-move-app.git"
+  },
+  "type": "module",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "yargs": "^17.6.2"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "create-move-app",
-  "version": "1.0.12",
+  "version": "1.0.15",
   "description": "create move app starter.",
   "bin": {
     "create-move-app": "./index.js"
@@ -26,5 +26,5 @@
   "dependencies": {
     "chalk": "^5.2.0",
     "yargs": "^17.6.2"
-  },
+  }
 }

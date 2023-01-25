@@ -15,11 +15,16 @@
     "appMapping.js",
     "README.md"
   ],
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "move",
+    "starcoin",
+    "aptos",
+    "sui"
+  ],
+  "author": "v1xingyue",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.2.0",
     "yargs": "^17.6.2"
-  }
+  },
 }

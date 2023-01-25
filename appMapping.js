@@ -3,7 +3,7 @@ export default {
         "url": "https://github.com/NonceGeek/scaffold-move.git",
         "cwd": "scaffold-aptos",
         "cmds": [
-            "npm install"
+            "yarn install || npm install"
         ],
         "start": "npm run dev"
     },
@@ -11,7 +11,7 @@ export default {
         "url": "https://github.com/NonceGeek/scaffold-move.git",
         "cwd": "scaffold-sui",
         "cmds": [
-            "npm install"
+            "yarn install || npm install"
         ],
         "start": "npm run dev"
     },

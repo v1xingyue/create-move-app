@@ -1,6 +1,6 @@
 {
   "name": "create-move-app",
-  "version": "1.0.6",
+  "version": "1.0.12",
   "description": "create move app starter.",
   "bin": {
     "create-move-app": "./index.js"
@@ -11,7 +11,9 @@
   },
   "type": "module",
   "files": [
-    "index.js"
+    "index.js",
+    "appMapping.js",
+    "README.md"
   ],
   "keywords": [],
   "author": "",

@@ -5,7 +5,7 @@ import path from 'path';
 import { execSync } from "child_process";
 import yargs from 'yargs/yargs';
 import { hideBin } from 'yargs/helpers';
-import { appMapping } from "./appMapping";
+import appMapping from "./appMapping.js";
 
 const runCommand = (command, { cwd }) => {
     cwd = cwd || ".";

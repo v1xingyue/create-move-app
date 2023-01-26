@@ -10,3 +10,8 @@ Support Chains
 
 * aptos
 * sui
+* starcoin
+
+Links
+
+<https://www.npmjs.com/package/create-move-app>

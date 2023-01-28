@@ -22,5 +22,13 @@ export default {
             "yarn install || npm install"
         ],
         "start": "npm run dev"
+    },
+    "page": {
+        "url": "https://github.com/v1xingyue/move-page.git",
+        "cwd": "",
+        "cmds": [
+            "yarn install || npm install"
+        ],
+        "start": "npm run dev"
     }
 }

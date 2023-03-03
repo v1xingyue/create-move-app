@@ -8,8 +8,8 @@ export default {
         "start": "npm run dev"
     },
     "sui": {
-        "url": "https://github.com/NonceGeek/scaffold-move.git",
-        "cwd": "scaffold-sui",
+        "url": "https://github.com/NonceGeek/scaffold-sui.git",
+        "cwd": "",
         "cmds": [
             "yarn install || npm install"
         ],

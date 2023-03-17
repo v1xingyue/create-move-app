@@ -1,7 +1,7 @@
 export default {
     "aptos": {
         "url": "https://github.com/NonceGeek/scaffold-move.git",
-        "cwd": "scaffold-aptos",
+        "cwd": "",
         "cmds": [
             "yarn install || npm install"
         ],

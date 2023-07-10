@@ -1,6 +1,6 @@
 {
   "name": "create-move-app",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "description": "create move app starter.",
   "bin": {
     "create-move-app": "./index.js"
